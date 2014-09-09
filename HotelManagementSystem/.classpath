@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-2.5.2/dist/modules/spring-core.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-2.5.2/dist/modules/spring-aop.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-2.5.2/dist/modules/spring-beans.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-2.5.2/dist/modules/spring-context.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-2.5.2/dist/modules/spring-context-support.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-2.5.2/dist/modules/spring-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-2.5.2/dist/modules/spring-jms.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-2.5.2/dist/modules/spring-modules-jakarta-commons-0.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-2.5.2/dist/modules/spring-orm.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-2.5.2/dist/modules/spring-test.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-2.5.2/dist/modules/spring-tx.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-2.5.2/dist/modules/spring-web.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-2.5.2/dist/modules/spring-webmvc.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-2.5.2/dist/modules/spring-webmvc-portlet.jar"/>
+	<classpathentry kind="lib" path="C:/spring-framework-2.5.2/dist/modules/spring-webmvc-struts.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
