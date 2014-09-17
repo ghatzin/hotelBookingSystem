@@ -19,5 +19,7 @@
 	<classpathentry kind="lib" path="C:/spring-framework-2.5.2/dist/modules/spring-webmvc-portlet.jar"/>
 	<classpathentry kind="lib" path="C:/spring-framework-2.5.2/dist/modules/spring-webmvc-struts.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Program Files/Apache Software/Tomcat 7.0/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Apache Software/Tomcat 7.0/lib/jsp-api.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
